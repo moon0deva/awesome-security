@@ -103,7 +103,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL) - A repository of all SIGMA rules converted to SPL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
-
+- [CyberRemedy](https://github.com/moon0deva/CyberRemedy) - Free self-hosted SIEM with ML anomaly detection, SOAR playbooks, MITRE ATT&CK mapping and autonomous threat response.
+  
 ### IDS / IPS / Host IDS / Host IPS
 
 - [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the "greatest [pieces of] open source software of all time".
